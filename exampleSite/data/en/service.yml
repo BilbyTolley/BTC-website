@@ -25,10 +25,10 @@ service:
       companies now spend more on collecting and analysing data than they do on the
       manufacturing process. If you are worried about getting left behind by the big
       data revolution we can help you get back on track.
-  - name: Graphic Design
+  - name: Digital Evolution/Industry 4.0
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Increase systems efficiency and competitive standing by utilising digital
+      tools and models to outperform industry accepted practices.
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
