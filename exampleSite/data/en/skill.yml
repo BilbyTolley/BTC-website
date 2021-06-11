@@ -11,10 +11,10 @@ skill:
     At Bilby Tolley & Co we hate wasting time and effort. If it has been done already there's no sense in re-inventing the wheel. Our focus on research ensures we are up to date with the latest developments and our clients can benefit from this directly.
   image: images/about/company-growth.webp
   skill_item:
+  - name: Crisis Management
+    percent: ''
   - name: Change Management
     percent: ''
-  - name: Business Development
-    percent: 90%
   - name: Operations Management
     percent: 70%
   - name: Industry 4.0
