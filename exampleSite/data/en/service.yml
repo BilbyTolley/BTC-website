@@ -33,7 +33,8 @@ service:
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Networking
+  - name: Business Strategy
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: What is your business' strategic vision? Where do you stand in the competitive
+      arena? Answer these questions with a strategic review and achieve business growth
+      ambitions.
