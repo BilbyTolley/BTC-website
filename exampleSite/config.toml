@@ -15,7 +15,7 @@ languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
 name = "Another one"
-url = "Google.com"
+url = "https://Google.com"
 weight = "4"
 [[Languages.en.menu.main]]
 name = "about"
