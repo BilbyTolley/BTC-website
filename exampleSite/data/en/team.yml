@@ -4,7 +4,7 @@ team:
   title: Our Team
   team_member:
   - name: Rick Bilby
-    image_webp: images/team/team-1.webp
+    image_webp: "/images/rickportrait1.jpg"
     image: "/images/rickportrait1.jpg"
     designation: Principal Consultant
     content: |
