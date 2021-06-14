@@ -9,11 +9,14 @@ title = "Bilby Tolley & Company"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2021 Bilby Tolley & Company Ltd"
-#  copyright = "Copyright &copy; 2021 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
+[[Languages.en.menu.main]]
+name = "Another one"
+url = "Google.com"
+weight = "4"
 [[Languages.en.menu.main]]
 name = "about"
 url = "#about"
@@ -83,11 +86,11 @@ url = "https://themefisher.com/"
 weight = 8
 [params]
 author = "Themefisher"
+copyright = "Bilby Tolley"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
-copyright = "Bilby Tolley"
 [params.cookies]
 enable = false
 expire_days = 2
