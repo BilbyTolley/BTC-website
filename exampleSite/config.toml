@@ -87,6 +87,7 @@ description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
+copright = "Bilby Tolley"
 [params.cookies]
 enable = false
 expire_days = 2
