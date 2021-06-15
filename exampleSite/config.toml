@@ -18,15 +18,11 @@ name = "about"
 url = "#about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "services"
+name = "capabilities"
 url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "portfolio"
-url = "#portfolio"
-weight = 3
-[[Languages.en.menu.main]]
-name = "pricing"
+name = "research"
 url = "#pricing"
 weight = 5
 [[Languages.en.menu.main]]
@@ -34,9 +30,13 @@ name = "team"
 url = "#team"
 weight = 4
 [[Languages.en.menu.main]]
-name = "blog"
+name = "media"
 url = "#blog"
 weight = 6
+[[Languages.en.menu.main]]
+name = "media centre"
+url = "#portfolio"
+weight = 3
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
