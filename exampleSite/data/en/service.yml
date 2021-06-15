@@ -7,8 +7,8 @@ service:
     icon: ti-direction-alt
     content: What is your business' strategic vision? Where do you stand in the competitive
       arena? Answer these questions with a strategic review and achieve your business
-      growth ambitions.
-  - name: Digital Transformation / Industry 4.0
+      growth ambitions. Then another sentence might make the boxes line up.
+  - name: Digital Transformation
     icon: ti-desktop
     content: 'Implementing an effective digital strategy is crucial, and utilising
       technology such as machine learning or the internet of things could provide
@@ -19,9 +19,9 @@ service:
     icon: ti-new-window
     content: "\nThe importance of an organisation’s operational management capabilities
       cannot be understated. How a business manages its resources to meet customer
-      expectations determines its overall success. \nWe not only understand the importance
-      of operational efficiency, we also understand the importance of communication
-      within the internal workings of an organisation…"
+      expectations determines its overall success. We not only understand the importance
+      of operational efficiency but also the importance of communication
+      internal to the organisation…"
   - name: Organisational Purpose
     icon: ti-user
     content: Personal interactions in any business are often an untapped strategic
@@ -29,7 +29,7 @@ service:
       company vision. We have found that the way individuals within your organisation
       communicate on many different levels is often neglected, and yet it can have
       a huge impact on the performance of all aspects of a business...
-  - name: Risk and Crisis Management
+  - name: Risk & Crisis Management
     icon: ti-filter
     content: 'We have extensive risk management expertise. We view risk in two main
       buckets – the day-to-day and the crisis. In terms of management of day-to-day
