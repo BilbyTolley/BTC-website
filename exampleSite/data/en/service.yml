@@ -7,14 +7,14 @@ service:
     icon: ti-direction-alt
     content: What is your business' strategic vision? Where do you stand in the competitive
       arena? Answer these questions with a strategic review and achieve your business
-      growth ambitions. Then another sentence might make the boxes line up.
+      growth ambitions. Then another couple of sentences here might just make the boxes line up nicely.
   - name: Digital Transformation
     icon: ti-desktop
     content: 'Implementing an effective digital strategy is crucial, and utilising
       technology such as machine learning or the internet of things could provide
       a crucial competitive edge. At Bilby Tolley & Company we help our clients implement
       strategies that ensure technology architecture is aligned with business vision
-      and ensure they do not fall behind their competitors. '
+      and ensure they do not fall behind'
   - name: Operations Management
     icon: ti-new-window
     content: "\nThe importance of an organisation’s operational management capabilities
