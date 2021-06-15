@@ -14,10 +14,6 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "Another one"
-url = "https://Google.com"
-weight = "8"
-[[Languages.en.menu.main]]
 name = "about"
 url = "#about"
 weight = 1
