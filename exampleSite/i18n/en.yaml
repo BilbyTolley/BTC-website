@@ -2,11 +2,11 @@
 - id: ''
   translation: ''
 - id: blogTitle
-  translation: Latest Post
+  translation: Media Centre
 - id: readMore
   translation: Read more
 - id: viewAllPost
-  translation: View All Post
+  translation: View All Posts
 - id: share
   translation: Share
 - id: aboutAuthor
