@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: Our Services
+  title: Our Capabilities
   service_item:
   - name: Strategy
     icon: ti-direction-alt
