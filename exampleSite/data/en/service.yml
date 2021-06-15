@@ -3,38 +3,42 @@ service:
   enable: true
   title: Our Services
   service_item:
-  - name: Quality Systems
-    icon: ''
-    content: ''
-  - name: Operations Management
-    icon: ''
-    content: ''
-  - name: Business and Organisational Purpose
-    icon: ti-world
-    content: Does your business have clarity of vision? Are your staff aligned with
-      the corporate mission?
-  - name: Supply Chain Management
-    icon: ti-layout
-    content: Supplier management can have a make-or-break impact on your product or
-      service. Effective supplier control and integration into your operational systems
-      will ensure targets are met and enable you to continually meet your customers'
-      expectations.
-  - name: Digital Transformation
-    icon: ti-blackboard
-    content: Are you making good use of the latest technology available? Some big
-      companies now spend more on collecting and analysing data than they do on the
-      manufacturing process. If you are worried about getting left behind by the big
-      data revolution we can help you get back on track.
-  - name: Digital Evolution/Industry 4.0
-    icon: ti-palette
-    content: Increase systems efficiency and competitive standing by utilising digital
-      tools and models to outperform industry accepted practices.
-  - name: Apps Development
-    icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Business Strategy
-    icon: ti-pulse
+  - name: Strategy
+    icon: ti-direction-alt
     content: What is your business' strategic vision? Where do you stand in the competitive
-      arena? Answer these questions with a strategic review and achieve business growth
-      ambitions.
+      arena? Answer these questions with a strategic review and achieve your business
+      growth ambitions.
+  - name: Digital Transformation / Industry 4.0
+    icon: ti-desktop
+    content: 'Implementing an effective digital strategy is crucial, and utilising
+      technology such as machine learning or the internet of things could provide
+      a crucial competitive edge. At Bilby Tolley & Company we help our clients implement
+      strategies that ensure technology architecture is aligned with business vision
+      and ensure they do not fall behind their competitors. '
+  - name: Operations Management
+    icon: ti-new-window
+    content: "\nThe importance of an organisation’s operational management capabilities
+      cannot be understated. How a business manages its resources to meet customer
+      expectations determines its overall success. \nWe not only understand the importance
+      of operational efficiency, we also understand the importance of communication
+      within the internal workings of an organisation…"
+  - name: Organisational Purpose
+    icon: ti-user
+    content: Personal interactions in any business are often an untapped strategic
+      resource, underpinning the company culture and supporting realisation of the
+      company vision. We have found that the way individuals within your organisation
+      communicate on many different levels is often neglected, and yet it can have
+      a huge impact on the performance of all aspects of a business...
+  - name: Risk and Crisis Management
+    icon: ti-filter
+    content: 'We have extensive risk management expertise. We view risk in two main
+      buckets – the day-to-day and the crisis. In terms of management of day-to-day
+      risks we apply techniques developed over two decades in the financial services
+      arena. We have found that techniques developed in different industries go by
+      different names but are remarkably similar... '
+  - name: Customer Engagement
+    icon: ti-gift
+    content: How you meet your customer requirements is aligned to how successful
+      you are as a business. In the current global economic conditions meeting customer
+      requirements is not the only measure of success that should be applied, customers
+      can and do expect more than the fulfilling of an order, they expect an experience!
