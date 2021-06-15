@@ -24,23 +24,19 @@ weight = 2
 [[Languages.en.menu.main]]
 name = "research"
 url = "#pricing"
-weight = 5
-[[Languages.en.menu.main]]
-name = "team"
-url = "#team"
-weight = 4
+weight = "3"
 [[Languages.en.menu.main]]
 name = "media"
 url = "#blog"
-weight = 6
+weight = "4"
 [[Languages.en.menu.main]]
-name = "media centre"
-url = "#portfolio"
-weight = 3
+name = "team"
+url = "#team"
+weight = "5"
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 7
+weight = "6"
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
