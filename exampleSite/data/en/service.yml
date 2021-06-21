@@ -25,9 +25,9 @@ service:
     icon: ti-user
     content: Personal interactions in any business are often an untapped strategic
       resource, underpinning the company culture and supporting realisation of the
-      company vision. We have found that the way individuals within your organisation
+      company vision. We have found that the way individuals within an organisation
       communicate on many different levels is often neglected, and yet it can have
-      a huge impact on the performance of all aspects of a business...
+      a significant impact on the performance of all aspects of a business.
   - name: Risk / Crisis Management
     icon: ti-filter
     content: 'We have extensive risk management expertise. We view risk in two main
