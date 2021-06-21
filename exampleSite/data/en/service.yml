@@ -13,8 +13,9 @@ service:
     icon: ti-desktop
     content: Implementing an effective digital strategy is crucial, and utilising
       technology such as machine learning or the internet of things could provide
-      a crucial competitive edge. At Bilby Tolley & Company we help our clients implement
-      solutions that ensure technology is aligned with business vision.
+      a crucial competitive edge. At Bilby Tolley & Company we work with our clients
+      to implement solutions that ensure technology is aligned with business vision
+      and future efficiency targets.
   - name: Operations Management
     icon: ti-new-window
     content: |2-
