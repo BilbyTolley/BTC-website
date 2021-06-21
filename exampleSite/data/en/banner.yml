@@ -1,13 +1,11 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image_webp: "/images/background.jpg"
+  bg_image: "/images/background.jpg"
   icon: ''
   title: Bilby Tolley & Company
-  content: Strategy consulting with a difference. No expensive powerpoint decks that
-    will stay in a drawer. We are all about customer relationships. The people you
-    meet are the people who do the work. Our clients wouldn't have it any other way!
+  content: Management Consulting for SMEs
   button:
     enable: true
     label: Explore
