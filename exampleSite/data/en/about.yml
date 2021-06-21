@@ -1,12 +1,11 @@
 ---
 about:
-  enable: true
+  enable: false
   title: About Us
   about_item:
   - icon: ti-ruler-pencil
     title: Experienced
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+    content: Our consultants draw from a diverse array of experience
   - icon: ti-cup
     title: Creative
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
