@@ -4,8 +4,8 @@ cta:
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   title: Management Consulting for SMEs
-  content: Contact us now for your free 1-hour consultation!
+  content: Contact us now for your free initial consultation!
   button:
     enable: true
-    label: Where do I sign up?
+    label: Contact us
     link: "#contact"
