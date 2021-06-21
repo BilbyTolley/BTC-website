@@ -3,23 +3,24 @@ feature:
   enable: true
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
-  title: Strategic Insights for Business
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora
-    itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+  title: Achieve Strategic Clarity
+  content: Our unique approach to management consulting is informed by many years'
+    experience in industry. This allows us to provide creative solutions and unbiased
+    advice.
   feature_item:
   - title: Experienced
     icon: ti-world
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Knowledge comes from experience. We're able to quickly identify solutions
+      that lead to success.
   - title: Creative
     icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: Our outside-the-box thinking leads to inspired ideas that will take your
+      business in new directions.
   - title: Unique
     icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
-  - title: Reassuringly Expensive
+    content: We stand out due to our ability to give quick same-day advice that will
+      make a positive difference to your business.
+  - title: Positive
     icon: ti-announcement
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: We believe that a can-do mindset leads to successful outcomes to business
+      problems.
