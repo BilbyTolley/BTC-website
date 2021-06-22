@@ -18,14 +18,10 @@ team:
       is currently training to be a certified life/executive coach. He enjoys travelling
       with Canada being his favourite destination."
     social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
     - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
+      link: https://www.linkedin.com/in/jay-tolley-bsc-hons-mba-47170644/
+    - icon: ti-email
+      link: 'mailto: jay@bilbytolley.com'
   - name: Rick Bilby
     image_webp: "/images/team/RickPortrait.jpg"
     image: "/images/team/RickPortrait.jpg"
@@ -35,11 +31,7 @@ team:
 
       Having lived in several countries, he is a skilled communicator in French and German and enjoys forging new business relationships, relishing the opportunity to work with new people. Outside of work, Rick is a talented musician and sportsman, and loves spending time in the great outdoors.
     social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
     - icon: ti-linkedin
       link: "#"
-    - icon: ti-dribbble
-      link: "#"
+    - icon: ti-email
+      link: 'mailto: rick@bilbytolley.com'
