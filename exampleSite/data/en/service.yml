@@ -38,7 +38,7 @@ service:
   - name: Customer Engagement
     icon: ti-gift
     content: Successful business outcomes are aligned to the relationships you build
-      with your customers. Increasing your brand equity through positive management
-      of customer interactions can elevate your business' standing and will also lay
-      a foundation for increased future revenue. The customer experience you provide
-      can now be seen as a measure of how successful your business will be.
+      with your customers. Building your brand through positive management of customer
+      interactions can elevate your business' standing and will also lay a foundation
+      for increased future revenue. The customer experience you provide can now be
+      seen as a measure of how successful your business will be.
