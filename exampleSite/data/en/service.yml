@@ -37,10 +37,8 @@ service:
       different names but are remarkably similar... '
   - name: Customer Engagement
     icon: ti-gift
-    content: Successful business outcomes can be intrinsically aligned to the relationships
-      you build with your customers. This is especially true in the current global
-      economic environment. Increasing brand equity through relationship management
-      can elevate your business' standing in the eyes of your current customer base
-      and will also lay a foundation for increased future revenue. The customer experience
-      you provide can now be seen as a measure of how successful your business will
-      be.
+    content: Successful business outcomes are aligned to the relationships you build
+      with your customers. Increasing your brand equity through positive management
+      of customer interactions can elevate your business' standing and will also lay
+      a foundation for increased future revenue. The customer experience you provide
+      can now be seen as a measure of how successful your business will be.
