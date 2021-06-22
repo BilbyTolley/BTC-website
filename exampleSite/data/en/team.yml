@@ -4,8 +4,8 @@ team:
   title: Our Team
   team_member:
   - name: Jay Tolley
-    image_webp: "/images/p1030441.jpg"
-    image: "/images/p1030441.jpg"
+    image_webp: "/images/team/JayPortrait.jpg"
+    image: "/images/team/JayPortrait.jpg"
     designation: Founding Partner
     content: "Jay, a graduate of The University of Leeds, has a professional background
       as a Managing Director in an ISO systems accredited company and has also worked
@@ -27,8 +27,8 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: Rick Bilby
-    image_webp: "/images/rickportrait1.jpg"
-    image: "/images/rickportrait1.jpg"
+    image_webp: "/images/team/RickPortrait.jpg"
+    image: "/images/team/RickPortrait.jpg"
     designation: Founding Partner
     content: |
       Having forged a successful career at Citigroup, and built his own consulting practice, Rick brings a unique blend of financial know-how and business expertise to the table, which puts him in prime position to guide burgeoning SMEs. Rick started his career in Risk Management at Citigroup, advancing through roles in Düsseldorf and Hong Kong, making significant improvements to the bank's risk management infrastructure.
