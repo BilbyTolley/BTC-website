@@ -1,9 +1,9 @@
 ---
-title: Simple Blog Post
-date: 2018-09-12T12:52:36.000+06:00
+title: Emerging from COVID
+date: 2021-06-14T06:52:36+00:00
 image_webp: "/images/covid-spring.jpg"
 image: "/images/covid-spring.jpg"
-author: John Doe
+author: Jay Tolley
 description: This is meta description
 
 ---
