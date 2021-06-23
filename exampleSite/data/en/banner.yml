@@ -8,5 +8,5 @@ banner:
   content: Management Consulting for SMEs
   button:
     enable: true
-    label: Explore
+    label: Explore our capabilities
     link: "#services"
