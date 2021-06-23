@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Our Team
+  title: Our Partners
   team_member:
   - name: Jay Tolley
     image_webp: "/images/team/JayPortrait.jpg"

@@ -3,11 +3,16 @@ skill:
   enable: true
   title: Research Centre
   subtitle: Our approach to consulting is firmly anchored in business experience and
-    supported by cutting-edge academic research.
-  content: |-
-    Do you want to out-compete the other companies in your industry? If so Bilby Tolley & Co provide a direct no-nonsense approach to management consulting specifically for SME's. We can help you build on the successes you have already achieved whilst embedding a continuous improvement framework into your business' culture that will guarantee competitive advantages.
-
-    At Bilby Tolley & Co we hate wasting time and effort. If it has been done already there's no sense in re-inventing the wheel. We have links with several UK universities and our focus on research ensures we are up to date with the latest developments in management theory and our clients can benefit from this directly.
+    supported by current academic research.
+  content: "All businesses should have a competitive strategy and we believe that
+    aligning your work force with that strategy will lead to competitive success.
+    \n\nBilby Tolley & Company can advise on strategy formulation. We have an ongoing
+    focus on research and links with several top UK universities. We ensure we are
+    up to date with current developments in business administration research, and
+    have a constant eye on the link between theory and practice. Our aim is to make
+    sure that your business remains one step ahead of the competition.\n\nUsing our
+    experience and research links we will enable you to develop a strategic mindset
+    whilst embedding a continual improvement ethos to ensure future success.\n"
   image: images/about/company-growth.webp
   skill_item:
   - name: Strategy
