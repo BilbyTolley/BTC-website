@@ -17,7 +17,7 @@ service:
       to implement solutions that ensure technology is aligned with business vision
       and future efficiency targets.
   - name: Operations Management
-    icon: ti-new-window
+    icon: ti-panel
     content: |2-
 
       The importance of an organisation’s operational management capabilities cannot be understated. How a business manages its resources to meet customer expectations determines its overall success. We not only understand the importance of operational efficiency but also the importance of communication internal to the organisation…
@@ -29,16 +29,16 @@ service:
       communicate on many different levels is often neglected, and yet it can have
       a significant impact on the performance of all aspects of a business.
   - name: Risk / Crisis Management
-    icon: ti-filter
+    icon: ti-support
     content: 'We have extensive risk management expertise. We view risk in two main
       buckets – the day-to-day and the crisis. In terms of management of day-to-day
       risks we apply techniques developed over two decades in the financial services
       arena. We have found that techniques developed in different industries go by
       different names but are remarkably similar... '
-  - name: Brand Management
-    icon: ti-gift
-    content: Successful business outcomes are aligned to the relationships you build
-      with your customers and suppliers. Building your brand through positive management
-      of these interactions will elevate your business' standing in the market and
-      lay critical foundations for future customer retention, competitive position
-      and ultimately increased success.
+  - name: Relationship Management
+    icon: ti-face-smile
+    content: Successful business outcomes are underpinned by the relationships you
+      build with your suppliers as well as your customers. Building your brand through
+      positive management of these interactions will elevate your business' standing
+      in the market and lay critical foundations for future customer retention, competitive
+      position and ultimately increased success.
