@@ -4,15 +4,12 @@ skill:
   title: Research Centre
   subtitle: Our approach to consulting is firmly anchored in business experience and
     supported by current academic research.
-  content: "All businesses should have a competitive strategy and we believe that
-    aligning your work force with that strategy will lead to competitive success.
-    \n\nBilby Tolley & Company can advise on strategy formulation. We have an ongoing
-    focus on research and links with several top UK universities. We ensure we are
-    up to date with current developments in business administration research, and
-    have a constant eye on the link between theory and practice. Our aim is to make
-    sure that your business remains one step ahead of the competition.\n\nUsing our
-    experience and research links we will enable you to develop a strategic mindset
-    whilst embedding a continual improvement ethos to ensure future success.\n"
+  content: |-
+    For businesses to be successful having an effective competitive strategy is a prerequisite. Additionally it is imperative that your strategic plans are aligned with the internal dynamics of your organisation.
+
+    Bilby Tolley & Company can advise on strategy formulation and how this can be aligned with your internal systems and employees so that the business as a whole is working towards an organisation wide goal. Our ongoing focus on research and links with several top UK universities ensure that we are up to date with current developments in strategic decision making research and development. We combine this theoretical knowledge with our industry experience to provide the advice to ensure that your business remains one step ahead of the competition.
+
+    In essence, we will enable you to develop a strategic mindset whilst embedding a continual improvement ethos to ensure future success.
   image: images/about/company-growth.webp
   skill_item:
   - name: Competitive Strategy
