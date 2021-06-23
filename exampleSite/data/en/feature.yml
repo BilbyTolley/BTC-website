@@ -13,15 +13,15 @@ feature:
     content: Knowledge comes from experience. We're able to quickly identify solutions
       that lead to success.
   - title: Creative
-    icon: ti-panel
+    icon: ti-gallery
     content: Our outside-the-box thinking leads to inspired ideas that will take your
       business in new directions.
   - title: Unique
-    icon: ti-stats-up
+    icon: ti-star
     content: Differentiation is key - we stand out by offering a blend of experience
       and cutting-edge academic research that will make a positive difference to your
       business.
   - title: Positive
-    icon: ti-announcement
+    icon: ti-stats-up
     content: We believe that a can-do mindset leads to successful outcomes to business
       problems.
