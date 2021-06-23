@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: "/images/business-meeting.jpg"
-  image_webp: "/images/business-meeting.jpg"
+  image: "/images/video-call-image.jpg"
+  image_webp: "/images/video-call-image.jpg"
   title: Achieve Strategic Clarity
   content: Our unique approach to management consulting is informed by many years'
     experience in industry. This allows us to provide creative solutions and unbiased

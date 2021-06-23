@@ -14,7 +14,7 @@ skill:
     to provide the advice to ensure that your business remains one step ahead of the
     competition.\n\nFollowing a strategic review we can enable you to develop a strategic
     vision with organisational buy-in, that will ensure future success."
-  image: images/about/company-growth.webp
+  image: "/images/graph-image.jpg"
   skill_item:
   - name: Competitive Strategy
     percent: 75%
