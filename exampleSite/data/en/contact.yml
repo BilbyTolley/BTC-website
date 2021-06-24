@@ -8,12 +8,10 @@ contact:
   contact_list:
   - icon: ti-location-pin
     info: 83 Ducie Street, Manchester M1 2JQ
-  - icon: ti-mobile
-    info: 'Phone: +44 (0)330 456 7890'
   - icon: ti-email
     info: 'Email: hello@bilbytolley.com'
   contact_form:
-    enable: true
+    enable: false
     form_action: mailto:rick@opriskconsulting.com
     name: Your Name
     email: Your Email
