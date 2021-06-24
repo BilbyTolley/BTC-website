@@ -3,8 +3,8 @@ contact:
   enable: true
   title: Contact Us
   subtitle: Bilby Tolley & Company Ltd
-  content: Please fill out the form and one of our consultants will get in touch within
-    24 hours. Alternatively call us or use the live chat.
+  content: Please email us at hello@bilbytolley.com and one of our consultants will
+    get in touch within 24 hours, or alternatively use the live chat.
   contact_list:
   - icon: ti-location-pin
     info: 83 Ducie Street, Manchester M1 2JQ
