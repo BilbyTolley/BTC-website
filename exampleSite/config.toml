@@ -30,10 +30,6 @@ name = "media"
 url = "#blog"
 weight = "4"
 [[Languages.en.menu.main]]
-name = "team"
-url = "#team"
-weight = "5"
-[[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
 weight = "6"
@@ -121,7 +117,7 @@ enable = false
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/company/bilbytolley/"
 [[params.social]]
 icon = "ti-email"
 link = "mailto: hello@bilbytolley.com"
