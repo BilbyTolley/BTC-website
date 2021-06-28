@@ -76,7 +76,7 @@ weight = 8
 author = "Themefisher"
 copyright = "Bilby Tolley"
 description = "Responsive Multipurpose Parallax Hugo Template"
-google_analytics_id = ""
+google_analytics_id = "G-XKSCTJZ5DD"
 logo = "images/logo.png"
 post_share = true
 [params.cookies]
