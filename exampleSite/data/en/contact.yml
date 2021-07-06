@@ -8,6 +8,8 @@ contact:
   contact_list:
   - icon: ti-location-pin
     info: 83 Ducie Street, Manchester M1 2JQ
+  - icon: ti-mobile
+    info: 0330 133 2501
   - icon: ti-email
     info: 'Email: hello@bilbytolley.com'
   contact_form:
