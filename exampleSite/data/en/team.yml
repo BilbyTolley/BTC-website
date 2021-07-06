@@ -3,7 +3,7 @@ team:
   enable: true
   title: Our Partners
   team_member:
-  - name: Jay Tolley
+  - name: Jay Tolley MBA
     image_webp: "/images/team/JayPortrait.jpg"
     image: "/images/team/JayPortrait.jpg"
     designation: Founding Partner
@@ -22,7 +22,7 @@ team:
       link: https://www.linkedin.com/in/jay-tolley-bsc-hons-mba-47170644/
     - icon: ti-email
       link: 'mailto: jay@bilbytolley.com'
-  - name: Rick Bilby
+  - name: Rick Bilby MBA
     image_webp: "/images/team/RickPortrait.jpg"
     image: "/images/team/RickPortrait.jpg"
     designation: Founding Partner
