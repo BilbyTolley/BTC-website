@@ -2,7 +2,6 @@
 author = "Jay Tolley"
 date = 2021-07-02T23:00:00Z
 description = ""
-draft = true
 image = ""
 image_webp = "/images/art-3592111_1920.jpg"
 title = "Work Motivation - An Introduction"
