@@ -2,7 +2,7 @@
 author = "Jay Tolley"
 date = 2021-07-04T23:00:00Z
 description = ""
-image = ""
+image = "/images/hamburg-3021820_1920.jpg"
 image_webp = "/images/hamburg-3021820_1920.jpg"
 title = "The use of soft skills to gain a competitive edge"
 
