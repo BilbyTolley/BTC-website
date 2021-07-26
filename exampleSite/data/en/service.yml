@@ -20,7 +20,7 @@ service:
     icon: ti-panel
     content: |2-
 
-      The importance of an organisation’s operational management capabilities cannot be understated. The way a business manages its resources to meet customer expectations determines its overall success. We understand the factors that drive operational efficiency, and how important communication is to realise operational targets.
+      The importance of an organisation’s operational management capabilities cannot be understated. The way a business manages its resources to meet customer expectations determines its overall success. We understand the factors that drive operational efficiency, and how important communication is to realise targets.
   - name: Organisational Purpose
     icon: ti-user
     content: Personal interactions in any business are often an untapped strategic
