@@ -13,15 +13,18 @@
 			<i class="{{ .icon }}"></i>
 		</div>
 		{{ end }}
-		<h1>{{ .title | markdownify }}</h1>
 		<p style="font-size:xx-large;">{{ .content | markdownify }}</p>
+		<h1>{{ .title | markdownify }}</h1>
 		{{ if .button.enable }}
 		{{ with .button }}
 		<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
 		{{ end }}
 		{{ end }}
 		<div class="mt-3">
-			<p>Telephone 0330 133 2501</p>
+			<p>Telephone: 0330 133 2501</p>
+		</div>
+		<div class="mt-3">
+			<p>Email: hello@bilbytolley.com</p>
 		</div>
 	</div>
 
