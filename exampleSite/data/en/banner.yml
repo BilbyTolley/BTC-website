@@ -5,7 +5,7 @@ banner:
   bg_image: "/images/background.jpg"
   icon: ''
   title: Bilby Tolley & Company
-  content: Management Consulting for SMEs
+  content: Business Management Consulting for SMEs
   button:
     enable: true
     label: Explore our capabilities
