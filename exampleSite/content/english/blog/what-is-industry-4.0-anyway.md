@@ -4,7 +4,7 @@ date = 2021-09-13T23:00:00Z
 description = "woman standing in futuristic data stream visual"
 image = "/images/girl-with-data-cropped.jpg"
 image_webp = "/images/girl-with-data-cropped.jpg"
-title = "What is Industry 4.0 anyway?"
+title = "What is Industry 4.0 anyway? A quick primer"
 
 +++
 The term “Industry 4.0” is becoming more mainstream, so what exactly is it?’ Industry 4.0 is the _fourth industrial revolution_ continuing a series of transformational periods of innovation that started with the first industrial revolution (around 1760) in which the advent of water and steam power enabled the move from hand to machine production. The first factories were inhabited by innovations such as Arkwright’s water frame and Hargreaves’ spinning jenny.
