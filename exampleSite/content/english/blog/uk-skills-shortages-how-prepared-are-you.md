@@ -1,6 +1,6 @@
 +++
-author = ""
-date = ""
+author = "Jay Tolley"
+date = 2021-09-20T23:00:00Z
 description = ""
 draft = true
 image = ""
