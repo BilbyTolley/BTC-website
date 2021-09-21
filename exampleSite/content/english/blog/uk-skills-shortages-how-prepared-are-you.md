@@ -2,7 +2,6 @@
 author = "Jay Tolley"
 date = 2021-09-20T23:00:00Z
 description = ""
-draft = true
 image = "/images/curriculum-vitae-picture.jpg"
 image_webp = "/images/curriculum-vitae-picture.jpg"
 title = "UK skills shortages - How prepared are you?"
