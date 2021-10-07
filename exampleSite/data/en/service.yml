@@ -30,11 +30,11 @@ service:
       a significant impact on the performance of all aspects of a business.
   - name: Risk / Crisis Management
     icon: ti-support
-    content: 'We have extensive risk management expertise. Risk can be viewed from
-      two angles - day-to-day operational risk and high-impact crisis risk. In terms
-      of management of day-to-day risks we apply techniques developed over two decades
-      in the financial services arena. We have found that techniques developed in
-      different industries go by different names but are remarkably similar... '
+    content: 'In our experience risk can be viewed from two angles - day-to-day operational
+      risk and high-impact crisis risk. In terms of management of day-to-day risks
+      we apply techniques developed over two decades in the financial services arena.
+      We have found that techniques developed in different industries go by different
+      names but are remarkably similar... '
   - name: Stakeholder Management
     icon: ti-face-smile
     content: Successful business outcomes are underpinned by the relationships you
