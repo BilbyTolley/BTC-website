@@ -23,6 +23,7 @@ fields:
   label: description
   description: meta description
 pages:
+- exampleSite/content/english/blog/crisis-management-are-you-prepared-for-the-unexpected.md
 - exampleSite/content/english/blog/the-use-of-soft-skills-to-gain-a-competitive-edge.md
 - exampleSite/content/english/blog/uk-skills-shortages-how-prepared-are-you.md
 - exampleSite/content/english/blog/what-is-industry-4.0-anyway.md
