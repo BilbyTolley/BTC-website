@@ -3,8 +3,8 @@ author = "Jay Tolley"
 date = 2021-10-11T23:00:00Z
 description = "Emergency pull button"
 draft = true
-image = ""
-image_webp = ""
+image = "/images/emergency-pull.jpg"
+image_webp = "/images/emergency-pull.jpg"
 title = "Crisis Management – are you prepared for the unexpected?"
 
 +++
